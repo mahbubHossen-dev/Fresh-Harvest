@@ -12,7 +12,7 @@ const About = () => {
                         <div className='text-center'>
                             <img className='mx-auto' src={mahbubImage} alt="" />
                         </div>
-                        <div className='px-[7px] py-[4px] md:px-[13px] absolute right-32 bg-[#ddd] bottom-28'>
+                        <div className='px-[7px] py-[4px] md:px-[13px] absolute right-32 bg-[#ddd] bottom-28'> 
                             <h6 className='font-medium'>Fresh Harvest</h6>
                         </div>
 
