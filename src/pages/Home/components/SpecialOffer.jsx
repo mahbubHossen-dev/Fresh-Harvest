@@ -2,7 +2,7 @@ import React from 'react';
 
 const SpecialOffer = () => {
     return (
-        <div className='max-w-[1213px] mx-auto container mt-24 py-[90px] md:pl-[90px] space-y-2 bg-red-300'>
+        <div className='max-w-[1213px] mx-auto container mt-24 py-[90px] md:pl-[90px] space-y-2  p-4 md:p-0'>
             <h5 className='text-[14px] md:text-[20px] text-[#749B3F] font-medium bg-[rgba(116, 155, 63, 0.1)] py-2 px-4'>Special Offer</h5>
             <h1 className='text-[48px] md:text-[80px] font-500'>Seasonal Fruit Bundle</h1>
             <h4 className='text-[32px] md:text-[48px] font-500'>

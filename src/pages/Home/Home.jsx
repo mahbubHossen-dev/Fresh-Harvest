@@ -3,6 +3,7 @@ import About from './components/About';
 import SpecialOffer from './components/SpecialOffer';
 import Testimonial from './components/Testimonial';
 import BlogSection from './components/BlogSection';
+import Footer from '../../shared/Footer';
 
 const Home = () => {
     return (
@@ -14,6 +15,8 @@ const Home = () => {
             <Testimonial />
 
             <BlogSection />
+
+            <Footer />
         </div>
     );
 };
